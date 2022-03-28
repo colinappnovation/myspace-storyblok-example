@@ -43,7 +43,7 @@ export default {
     [
       'storyblok-nuxt',
       {
-        accessToken: 'mkSgS5CCTjIr9hFCXdMuUgtt',
+        accessToken: '',
         cacheProvider: 'memory'
       },
       'nuxt-seo'
